@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Formação Para o Mercado de Trabalho &#187; admin</title>
+	<atom:link href="http://www.fmt.pi.wilivro.com.br/?feed=rss2&#038;author=1" rel="self" type="application/rss+xml" />
+	<link>http://www.fmt.pi.wilivro.com.br</link>
+	<description>Promovendo a Formação Socioeducativa em Complementação a Formação Profissional</description>
+	<lastBuildDate>Thu, 03 Jul 2014 11:42:52 +0000</lastBuildDate>
+	<language>pt-BR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.9.1</generator>
+	<item>
+		<title>Professores vão utilizar tecnologia para preparar alunos para o mercado de trabalho</title>
+		<link>http://www.fmt.pi.wilivro.com.br/?p=55</link>
+		<comments>http://www.fmt.pi.wilivro.com.br/?p=55#comments</comments>
+		<pubDate>Mon, 09 Jun 2014 20:30:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.fmt.pi.wilivro.com.br/?p=55</guid>
+		<description><![CDATA[Com o objetivo de capacitar professores para aplicação do material didático &#8220;Formação para o Mercado de Trabalho&#8221;, que inclui o Kit didático Ensinart, livro com QrCode, curso online e Tecnologia Wilivro, a Secretaria de Estado da Educação e Cultura (Seduc) promove na próxima sexta (6) uma formação no CEEP João Mendes Olímpio de Melo (Premen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<table width="624">
+<tbody>
+<tr>
+<td>Com o objetivo de capacitar professores para aplicação do material didático &#8220;Formação para o Mercado de Trabalho&#8221;, que inclui o Kit didático Ensinart, livro com QrCode, curso online e Tecnologia Wilivro, a Secretaria de Estado da Educação e Cultura (Seduc) promove na próxima sexta (6) uma formação no CEEP João Mendes Olímpio de Melo (Premen Norte), bairro Vila Operária, a partir das 8h.Segundo Thaís Filgueira, coordenadora do projeto, será utilizada na formação a metodologia de ensino Blended Learning, ensino híbrido. &#8220;O curso aborda a parte teórica, presencial e a parte prática, nos computadores instalados no local da capacitação. O palestrante é o mestre em Ciência em Gerenciamento de Projetos pela COPPE/UFRJ, Carlos Aquiles Siqueira&#8221;, explica.</p>
+<p>A coordenadora acrescenta ainda que todos os professores participantes receberão certificado de formação e credenciamento para o uso de tecnologia Wilivro. &#8220;Não haverá custos para os professores que irão participar, estes receberão certificado pela participação. Da mesma forma, estarão habilitados para ensinarem em sala de aula módulos de ética e cidadania, qualidade no atendimento e preparação para o emprego&#8221;, conclui Thaís Filgueira.</p>
+<p>04/06/2014 por Hélder Rocha</p>
+<p>Fonte: http://seduc.pi.gov.br/noticia.php?id=2104</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fmt.pi.wilivro.com.br/?feed=rss2&#038;p=55</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://www.fmt.pi.wilivro.com.br/?p=1</link>
+		<comments>http://www.fmt.pi.wilivro.com.br/?p=1#comments</comments>
+		<pubDate>Tue, 27 May 2014 18:11:02 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://www.fmt.pi.wilivro.com.br/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.fmt.pi.wilivro.com.br/?feed=rss2&#038;p=1</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
